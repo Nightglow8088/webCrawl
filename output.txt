@@ -1,0 +1,101 @@
+Parcel_AIN: 2004013020
+Parcel_Longitude: -118.621122943
+Parcel_Latitude: 34.2236275979
+Parcel_SitusStreet: 8418 PONCE AVE
+Parcel_SitusCity: LOS ANGELES CA
+Parcel_SitusZipCode: 91304-2248
+Parcel_UseTypeCode: 
+Parcel_UseType: Single Family Residence
+Parcel_ParcelType: Regular Fee Parcel
+Parcel_ParcelStatus: ACTIVE
+Parcel_CreateDate: 
+Parcel_DeleteDate: 
+Parcel_UseCode: 0100
+Parcel_DesignType: 0130
+Parcel_QualityClass: D75A 
+Parcel_SubPartNumber: None
+Parcel_NumOfUnits: 1
+Parcel_YearBuilt: 1959
+Parcel_EffectiveYear: 1959
+Parcel_SqftMain: 1594
+Parcel_SqftLot: 11090
+Parcel_NumOfBeds: 3
+Parcel_NumOfBaths: 3
+Parcel_TaxStatus: CURRENT
+Parcel_TaxDefaultedYear: 
+Parcel_TaxRateArea: 00016
+Parcel_RollPreparation_BaseYear: 2025
+Parcel_RollPreparation_LandValue: 156179
+Parcel_RollPreparation_ImpValue: 146729
+Parcel_RollPreparation_LandReasonCode: 0
+Parcel_RollPreparation_ImpReasonCode: 0
+Parcel_RollPreparation_LandBaseYear: 0
+Parcel_RollPreparation_ImpBaseYear: 0
+Parcel_CurrentRoll_BaseYear: 2024
+Parcel_CurrentRoll_LandValue: 153117
+Parcel_CurrentRoll_ImpValue: 143852
+Parcel_CurrentRoll_LandReasonCode: T
+Parcel_CurrentRoll_LandReasonCodeDetail: Change in Ownership (Transfer)
+Parcel_CurrentRoll_ImpReasonCode: T
+Parcel_CurrentRoll_ImpReasonCodeDetail: Change in Ownership (Transfer)
+Parcel_CurrentRoll_LandBaseYear: 1997
+Parcel_CurrentRoll_ImpBaseYear: 1997
+Parcel_TrendedBaseValue_Land: 
+Parcel_TrendedBaseValue_Imp: 
+Parcel_BaseValue_Land: 95900
+Parcel_BaseValue_Imp: 90100
+Parcel_BaseValue_Year: 1997
+Parcel_Division: North District Office
+Parcel_Region: 02
+Parcel_Cluster: 02121
+Parcel_ClusterName: S.W. CHATSWORTH
+Parcel_DistrictOffice: North District Office
+Parcel_OfficeStreet: 13800 Balboa Blvd.
+Parcel_OfficeCity: Sylmar, CA
+Parcel_OfficeZipCode: 91342
+Parcel_OfficePhone: (818) 833-6000
+Parcel_OfficeTollFree: 1 (888) 807-2111
+Parcel_OfficeHours: M-F 8:00 am to 5:00 pm
+Parcel_Exemption: Homeowners’
+Parcel_UseCode1stDigit: Residential
+Parcel_UseCode2ndDigit: Single Family Residence
+Parcel_UseCode3rdDigit: Open
+Parcel_UseCode4thDigit: Unused or Unknown Code (No Meaning)
+Parcel_UsableSqftLot: 11040
+Parcel_LandWidth: 92
+Parcel_LandDepth: 120
+Parcel_LandAcres: 
+Parcel_ZoningPDB: LARE11
+Parcel_LotCodeSplit: N
+Parcel_LotImpairment: None
+Parcel_LotCorner: N
+Parcel_LotSewer: Y
+Parcel_LotTraffic: N
+Parcel_LotFreeway: N
+Parcel_LotFlight: N
+Parcel_LotGolf: N
+Parcel_LotHorse: N
+Parcel_LotView: None
+Parcel_LegalDescription: TRACT # 18993 LOT   22
+Parcel_SubpartNumber: 0101
+Parcel_PDBEffectiveDate: 01/31/2025
+Parcel_SubParts_0_SubPartNumber: 0101
+Parcel_SubParts_0_DesignType: 0130
+Parcel_SubParts_0_DesignType1stDigit: Residential
+Parcel_SubParts_0_DesignType2ndDigit: Single Family Residence
+Parcel_SubParts_0_DesignType3rdDigit: Central Refrigeration and Heat
+Parcel_SubParts_0_DesignType4thDigit: Unused or Unknown Code (No Meaning)
+Parcel_SubParts_0_QualityClass: D75A 
+Parcel_SubParts_0_NumOfUnits: 1
+Parcel_SubParts_0_YearBuilt: 1959
+Parcel_SubParts_0_EffectiveYear: 1959
+Parcel_SubParts_0_SqftMain: 1594
+Parcel_SubParts_0_NumOfBeds: 3
+Parcel_SubParts_0_NumOfBaths: 3
+Parcel_SubParts_0_Depreciation: UN70
+Parcel_SubParts_0_RCNOther: 6040
+Parcel_SubParts_0_RCNOtherTrended: 26008
+Parcel_SubParts_0_RCNYearChange: 1979
+Parcel_SubParts_0_AddedDepreciationType:   
+Parcel_SubParts_0_DepreciationType: 
+Parcel_SubParts_0_AddedDepreciationPercent: 0
